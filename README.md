@@ -39,8 +39,8 @@
 ---
 
 ### 📧 Contact
-- GitHub No-Reply Email: `YouusefElsheikh@users.noreply.github.com`
-- [LinkedIn](https://linkedin.com/in/YoussefElsheikh)
+- 📫 GitHub No-Reply Email: `YouusefElsheikh@users.noreply.github.com`
+- 🔗 LinkedIn: https://www.linkedin.com/in/youssef-el-sheikh-735453272
 
 ---
 
