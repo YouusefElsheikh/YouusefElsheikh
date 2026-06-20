@@ -1,68 +1,86 @@
-# Hi, I'm Youssef Elsheikh 👋
+# Hi 👋, I'm Youssef Elsheikh
 
-### Aspiring Back-End Developer | .NET Learner | Computer Science Student
+### 💻 Aspiring Back-End Developer | .NET Learner | Problem Solver
 
----
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVtYXFjNWRyM3l6eGQ0ZXFuaHJvN3R5eG84aDJwMTR1eDJ2Nmx3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
 * 🎓 Student at Faculty of Science, Physics & Computer Science Department
-* 💻 Passionate about Software Development and Back-End Technologies
-* 🌱 Currently learning C#, OOP, Data Structures, Databases, LINQ, ADO.NET, MVC, and APIs
-* 🚀 Building projects to strengthen my programming and problem-solving skills
-* ♟️ Chess player who enjoys logical thinking and strategic planning
+* 🌱 Currently learning **ASP.NET MVC, APIs, LINQ, ADO.NET**
+* 💡 Passionate about **Back-End Development**
+* 🚀 Building projects to improve my software engineering skills
+* ♟️ Chess Player (1000 Rating)
+* 📚 Always learning something new
 
 ---
 
-## 🛠 Skills
+## 🛠️ Languages & Technologies
 
-### Programming
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,git,github,vscode,visualstudio" />
+</p>
 
-* C#
-* SQL
-
-### Core Concepts
+### 📖 Concepts I Know
 
 * Object-Oriented Programming (OOP)
 * Data Structures
 * Algorithms
-
-### .NET Technologies
-
+* SQL Basics
 * LINQ
 * ADO.NET
 * ASP.NET MVC
 * REST APIs
 
-### Tools
+---
 
-* Git
-* GitHub
-* Visual Studio
-* VS Code
+## 🎯 2026 Goals
+
+✅ Master ASP.NET Development
+
+✅ Build Real-World Projects
+
+✅ Learn Clean Architecture
+
+✅ Start Professional Back-End Career
+
+✅ Contribute to Open Source
 
 ---
 
-## 🎯 Current Goals
+## 📊 GitHub Stats
 
-* Master ASP.NET Development
-* Build Professional Full-Stack Projects
-* Learn Software Architecture and Design Patterns
-* Gain Real-World Development Experience
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YouusefElsheikh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouusefElsheikh&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YouusefElsheikh\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouusefElsheikh\&layout=compact\&theme=radical)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YouusefElsheikh&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YouusefElsheikh
-* LinkedIn: https://www.linkedin.com/in/youssef-el-sheikh-735453272
+<p align="left">
+<a href="https://www.linkedin.com/in/youssef-el-sheikh-735453272">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YouusefElsheikh@users.noreply.github.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-> Learning today, building tomorrow.
+---
+
+### 💭 Quote
+
+> "First, solve the problem. Then, write the code."
