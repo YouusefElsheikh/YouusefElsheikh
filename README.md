@@ -1,48 +1,68 @@
 # Hi, I'm Youssef Elsheikh 👋
 
-### Full-Stack Developer | Back-End Enthusiast | Tech Lover
+### Aspiring Back-End Developer | .NET Learner | Computer Science Student
 
 ---
 
-### 👤 About Me
-- 🔭 I’m currently working on **personal projects & full-stack development**
-- 🌱 I’m currently learning **advanced C#, Node.js, API integration, and Web Scraping**
-- ⚡ Fun fact: **I love building efficient systems and experimenting with clean UI/UX.**
+## 👨‍💻 About Me
+
+* 🎓 Student at Faculty of Science, Physics & Computer Science Department
+* 💻 Passionate about Software Development and Back-End Technologies
+* 🌱 Currently learning C#, OOP, Data Structures, Databases, LINQ, ADO.NET, MVC, and APIs
+* 🚀 Building projects to strengthen my programming and problem-solving skills
+* ♟️ Chess player who enjoys logical thinking and strategic planning
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Skills
 
-#### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Programming
 
-#### 💻 Back-End
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=code&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-563D7C?style=for-the-badge&logo=dot-net&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logo=dot-net&logoColor=white)
-![API](https://img.shields.io/badge/API-008080?style=for-the-badge&logo=swagger&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* C#
+* SQL
 
-#### 🛠 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Core Concepts
 
----
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Algorithms
 
-### 📧 Contact
-- 📫 GitHub No-Reply Email: `YouusefElsheikh@users.noreply.github.com`
-- 🔗 LinkedIn: https://www.linkedin.com/in/youssef-el-sheikh-735453272
+### .NET Technologies
+
+* LINQ
+* ADO.NET
+* ASP.NET MVC
+* REST APIs
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio
+* VS Code
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YouusefElsheikh&show_icons=true&theme=radical)
+## 🎯 Current Goals
+
+* Master ASP.NET Development
+* Build Professional Full-Stack Projects
+* Learn Software Architecture and Design Patterns
+* Gain Real-World Development Experience
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YouusefElsheikh\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouusefElsheikh\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YouusefElsheikh
+* LinkedIn: https://www.linkedin.com/in/youssef-el-sheikh-735453272
+
+> Learning today, building tomorrow.
